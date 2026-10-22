@@ -44,6 +44,15 @@ Gerçek ölçüm cihazlarıyla yürüttüğümüz projede Java backend tarafınd
 
 `Java` `Spring Boot` `REST API` `Spring Data JPA`
 
+## Öğrenme atölyem
+
+### [EdaPlayground](https://github.com/KeremOzcn/EdaPlayground)
+**Java / Spring Boot ve React odaklı çalışma alanı · Özel depo**
+
+Backend ve full-stack geliştirme pratiği için hazırlanmış proje tabanlı öğrenme alanım. Küçük projeler üzerinden uygulama geliştirme, test ve hata ayıklama becerilerimi ilerletmeyi hedefliyorum.
+
+*Bu depo özeldir; bağlantıyı yalnızca erişimi olan kişiler açabilir.*
+
 ## Kullandığım teknolojiler
 
 - **Ana odağım:** Ruby, Ruby on Rails, MVC, Active Record
