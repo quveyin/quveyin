@@ -37,22 +37,6 @@ Ruby ile başladığım kelime oyununu Rails tabanlı bir web uygulamasına taş
 
 `Ruby` `Ruby on Rails` `Oyun mantığı` `Web arayüzü`
 
-### [IndustrialSense](https://github.com/KeremOzcn/industrialsense-iot-monitoring)
-**Ortak geliştirme · IoT izleme ve anomali tespiti**
-
-Gerçek ölçüm cihazlarıyla yürüttüğümüz projede Java backend tarafında görev aldım. Spring Boot tabanlı sistem; sensör verilerinin alınmasını, saklanmasını ve REST API’ler üzerinden sunulmasını kapsıyor.
-
-`Java` `Spring Boot` `REST API` `Spring Data JPA`
-
-## Öğrenme atölyem
-
-### [EdaPlayground](https://github.com/KeremOzcn/EdaPlayground)
-**Java / Spring Boot ve React odaklı çalışma alanı · Özel depo**
-
-Backend ve full-stack geliştirme pratiği için hazırlanmış proje tabanlı öğrenme alanım. Küçük projeler üzerinden uygulama geliştirme, test ve hata ayıklama becerilerimi ilerletmeyi hedefliyorum.
-
-*Bu depo özeldir; bağlantıyı yalnızca erişimi olan kişiler açabilir.*
-
 ## Kullandığım teknolojiler
 
 - **Ana odağım:** Ruby, Ruby on Rails, MVC, Active Record
